@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ogyan1809.github.io/csb-dhjytq/static/css/main.4a52f53e.chunk.css",
+    "main.js": "https://ogyan1809.github.io/csb-dhjytq/static/js/main.2e9c0d00.chunk.js",
+    "main.js.map": "https://ogyan1809.github.io/csb-dhjytq/static/js/main.2e9c0d00.chunk.js.map",
+    "runtime-main.js": "https://ogyan1809.github.io/csb-dhjytq/static/js/runtime-main.9fc4971c.js",
+    "runtime-main.js.map": "https://ogyan1809.github.io/csb-dhjytq/static/js/runtime-main.9fc4971c.js.map",
+    "static/js/2.f0b61279.chunk.js": "https://ogyan1809.github.io/csb-dhjytq/static/js/2.f0b61279.chunk.js",
+    "static/js/2.f0b61279.chunk.js.map": "https://ogyan1809.github.io/csb-dhjytq/static/js/2.f0b61279.chunk.js.map",
+    "index.html": "https://ogyan1809.github.io/csb-dhjytq/index.html",
+    "static/css/main.4a52f53e.chunk.css.map": "https://ogyan1809.github.io/csb-dhjytq/static/css/main.4a52f53e.chunk.css.map",
+    "static/js/2.f0b61279.chunk.js.LICENSE.txt": "https://ogyan1809.github.io/csb-dhjytq/static/js/2.f0b61279.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9fc4971c.js",
+    "static/js/2.f0b61279.chunk.js",
+    "static/css/main.4a52f53e.chunk.css",
+    "static/js/main.2e9c0d00.chunk.js"
+  ]
+}
